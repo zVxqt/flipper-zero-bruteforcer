@@ -1,0 +1,21 @@
+REM Sblocco Android con 4 codici
+DELAY 2000        
+STRING 173968      REM after "string", use your code
+DELAY 500          
+ENTER              
+DELAY 2000         
+
+STRING 826396      
+DELAY 500          
+ENTER              
+DELAY 2000         
+
+STRING 729686      
+DELAY 500          
+ENTER              
+DELAY 2000         
+
+STRING 868686      
+DELAY 500          
+ENTER             
+DELAY 2000        
